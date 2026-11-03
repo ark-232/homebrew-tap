@@ -4,7 +4,7 @@ cask "dewline" do
 
   url "https://github.com/ark-232/dewline/releases/download/v#{version.csv.first}/Dewline-#{version.csv.first}.dmg"
   name "Dewline"
-  desc "Markdown editor that shows what agents changed"
+  desc "Native Markdown editor for plain files and Obsidian vaults"
   homepage "https://dewline.arkwerx.com/"
 
   livecheck do
