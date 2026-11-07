@@ -1,5 +1,5 @@
 cask "dewline" do
-  version "0.1.1"
+  version "0.1.1,82"
   sha256 "0612948238fa9579569c837395e916466402638ff8dcd99302bc5f2ed3540511"
 
   url "https://github.com/ark-232/dewline/releases/download/v#{version.csv.first}/Dewline-#{version.csv.first}.dmg"
