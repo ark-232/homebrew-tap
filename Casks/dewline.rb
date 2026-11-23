@@ -1,6 +1,6 @@
 cask "dewline" do
-  version "0.1.1"
-  sha256 "0612948238fa9579569c837395e916466402638ff8dcd99302bc5f2ed3540511"
+  version "0.7.2,255"
+  sha256 "b1267a2fe675e362060c57f9446dfb12fcd5fa34b5cb5e01dbc983c86182700a"
 
   url "https://github.com/Dewline-ArkWerx-LLC/dewline/releases/download/v#{version.csv.first}/Dewline-#{version.csv.first}.dmg"
   name "Dewline"
